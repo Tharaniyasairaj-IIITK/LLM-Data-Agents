@@ -2,12 +2,10 @@
 
 **Metric definitions are committed, and ambiguity is measured, in multiagent text-to-SQL analytics.**
 
-Code, data generator, tests, classroom demo for blue-sky research direction on
+Code, data generator, tests, classroom demo and paper source for a blue-sky research direction on
 **LLM data agents**: treating business-metric definitions as *social commitments* of a steward agent,
 carried by every answer as a versioned, hashed **semantic contract**, and quantifying residual ambiguity with an
 **Interpretation Divergence Index (IDI)** so that agents escalate instead of guessing.
-
----
 
 ## Why this matters
 
@@ -117,7 +115,7 @@ This script has **not** been validated against the live API and was **not** used
 the 48 questions and comparing with the simulation is a natural first extension (roadmap milestone M1).
 
 
-## Scope and limitations
+## Scope for Extension
 
 - The experimental agents are **simulated policies**, not LLMs: they demonstrate the mechanism, not LLM behaviour.
 - Data are **synthetic**; the committed definition lies in the interpretation set by construction (assumption A1).
